@@ -40579,6 +40579,166 @@
       "recovered": 8806,
       "hospitalized": 32,
       "deceased": 75
+    },
+    {
+      "id": 4058,
+      "date": "2020-12-20",
+      "zoneNo": "I",
+      "zoneName": "THIRUVOTTIYUR",
+      "confirmedCases": 6739,
+      "recovered": 6541,
+      "hospitalized": 40,
+      "deceased": 158
+    },
+    {
+      "id": 4059,
+      "date": "2020-12-20",
+      "zoneNo": "II",
+      "zoneName": "MANALI",
+      "confirmedCases": 3537,
+      "recovered": 3446,
+      "hospitalized": 51,
+      "deceased": 40
+    },
+    {
+      "id": 4060,
+      "date": "2020-12-20",
+      "zoneNo": "III",
+      "zoneName": "MADHAVARAM",
+      "confirmedCases": 8042,
+      "recovered": 7868,
+      "hospitalized": 80,
+      "deceased": 94
+    },
+    {
+      "id": 4061,
+      "date": "2020-12-20",
+      "zoneNo": "IV",
+      "zoneName": "TONDIARPET",
+      "confirmedCases": 17062,
+      "recovered": 16605,
+      "hospitalized": 129,
+      "deceased": 328
+    },
+    {
+      "id": 4062,
+      "date": "2020-12-20",
+      "zoneNo": "V",
+      "zoneName": "ROYAPURAM",
+      "confirmedCases": 19538,
+      "recovered": 18988,
+      "hospitalized": 184,
+      "deceased": 366
+    },
+    {
+      "id": 4063,
+      "date": "2020-12-20",
+      "zoneNo": "VI",
+      "zoneName": "THIRU VI KA NAGAR",
+      "confirmedCases": 17716,
+      "recovered": 17076,
+      "hospitalized": 234,
+      "deceased": 406
+    },
+    {
+      "id": 4064,
+      "date": "2020-12-20",
+      "zoneNo": "VII",
+      "zoneName": "AMBATTUR",
+      "confirmedCases": 15754,
+      "recovered": 15277,
+      "hospitalized": 218,
+      "deceased": 259
+    },
+    {
+      "id": 4065,
+      "date": "2020-12-20",
+      "zoneNo": "VIII",
+      "zoneName": "ANNA NAGAR",
+      "confirmedCases": 24461,
+      "recovered": 23653,
+      "hospitalized": 362,
+      "deceased": 446
+    },
+    {
+      "id": 4066,
+      "date": "2020-12-20",
+      "zoneNo": "IX",
+      "zoneName": "TEYNAMPET",
+      "confirmedCases": 21290,
+      "recovered": 20495,
+      "hospitalized": 293,
+      "deceased": 502
+    },
+    {
+      "id": 4067,
+      "date": "2020-12-20",
+      "zoneNo": "X",
+      "zoneName": "KODAMBAKKAM",
+      "confirmedCases": 23973,
+      "recovered": 23148,
+      "hospitalized": 382,
+      "deceased": 443
+    },
+    {
+      "id": 4068,
+      "date": "2020-12-20",
+      "zoneNo": "XI",
+      "zoneName": "VALASARAVAKKAM",
+      "confirmedCases": 14077,
+      "recovered": 13676,
+      "hospitalized": 199,
+      "deceased": 202
+    },
+    {
+      "id": 4069,
+      "date": "2020-12-20",
+      "zoneNo": "XII",
+      "zoneName": "ALANDUR",
+      "confirmedCases": 9116,
+      "recovered": 8794,
+      "hospitalized": 171,
+      "deceased": 151
+    },
+    {
+      "id": 4070,
+      "date": "2020-12-20",
+      "zoneNo": "XIII",
+      "zoneName": "ADYAR",
+      "confirmedCases": 17938,
+      "recovered": 17175,
+      "hospitalized": 458,
+      "deceased": 305
+    },
+    {
+      "id": 4071,
+      "date": "2020-12-20",
+      "zoneNo": "XIV",
+      "zoneName": "PERUNGUDI",
+      "confirmedCases": 8199,
+      "recovered": 7941,
+      "hospitalized": 128,
+      "deceased": 130
+    },
+    {
+      "id": 4072,
+      "date": "2020-12-20",
+      "zoneNo": "XV",
+      "zoneName": "SOZHINGANALLUR",
+      "confirmedCases": 5905,
+      "recovered": 5791,
+      "hospitalized": 65,
+      "deceased": 49
+    },
+    {
+      "id": 4073,
+      "date": "2020-12-20",
+      "zoneNo": "",
+      "zoneName": "OTHER DISTRICT",
+      "confirmedCases": 8911,
+      "recovered": 8812,
+      "hospitalized": 24,
+      "deceased": 75
     }
   ]
 }
